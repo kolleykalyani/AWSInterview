@@ -28,7 +28,7 @@
 
 ### What is S3 ?
 
-* S3 stands for simple storage service also commomnly known as S3 is an object based storage service.
+* S3 stands for simple storage service also commonly known as S3 is an object based storage service.
 
 * It allows individuals and businesses to store the data or retrive the data from anywhere on the web.
 
