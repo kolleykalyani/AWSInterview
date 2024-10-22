@@ -80,4 +80,8 @@ Auto scaling is an AWS# AWSInterview
 
 * DynamoDB is NOSQL database service that delivers reliable performance on low-latency queries.
 
+* **Availability Zone** : AZs are isolated locations within a region, designed to provide fault tolerance and high availability for your applications within that region.
+
+* **Region** : Regions are geographically separated areas designed to provide the highest level of data sovereignty and fault isolation.
+
 
