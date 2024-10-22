@@ -17,9 +17,13 @@
 * Ec2 provides the following options
 
 << Geeral purpose
+
 << Memory optimized
+
 << Computer optimized
+
 << Accelerated computing
+
 << Storage optimized
 
 ### What is S3 ?
