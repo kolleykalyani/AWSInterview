@@ -16,7 +16,7 @@
 
 * Ec2 provides the following options
 
-<< Geeral purpose
+<< General purpose
 
 << Memory optimized
 
